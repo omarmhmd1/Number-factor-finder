@@ -10,3 +10,7 @@ How to use ?
 
 	3)Enter number and code will give result 
 
+Features :
+	1- Accurecy
+ 	2- Speed
+  	3- Efficiency
